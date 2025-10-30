@@ -1,0 +1,577 @@
+04:40:19.812: CPU Name: AMD Ryzen 5 7600X 6-Core Processor             
+04:40:19.812: CPU Speed: 4691MHz
+04:40:19.812: Physical Cores: 6, Logical Cores: 12
+04:40:19.812: Physical Memory: 31861MB Total, 14227MB Free
+04:40:19.813: Windows Version: 10.0 Build 26100 (release: 24H2; revision: 6899; 64-bit)
+04:40:19.813: Running as administrator: false
+04:40:19.813: Windows 10/11 Gaming Features:
+04:40:19.813: 	Game DVR: On
+04:40:19.813: 	Game Mode: On
+04:40:19.813: Sec. Software Status:
+04:40:19.814: 	Norton 360 for Gamers: enabled (AV)
+04:40:19.815: 	Microsoft Defender Antivirus: disabled (AV)
+04:40:19.815: 	Norton 360 for Gamers: enabled (FW)
+04:40:19.815: 	Windows Firewall: enabled (FW)
+04:40:19.816: Current Date/Time: 2025-10-30, 04:40:19
+04:40:19.816: Browser Hardware Acceleration: true
+04:40:19.816: Hide OBS windows from screen capture: false
+04:40:19.816: Qt Version: 6.8.3 (runtime), 6.8.3 (compiled)
+04:40:19.816: Portable mode: false
+04:40:20.067: OBS 32.0.2 (64-bit, windows)
+04:40:20.067: ---------------------------------
+04:40:20.072: ---------------------------------
+04:40:20.072: audio settings reset:
+04:40:20.072: 	samples per sec: 48000
+04:40:20.072: 	speakers:        2
+04:40:20.072: 	max buffering:   960 milliseconds
+04:40:20.072: 	buffering type:  dynamically increasing
+04:40:20.079: ---------------------------------
+04:40:20.079: Initializing D3D11...
+04:40:20.079: Available Video Adapters: 
+04:40:20.092: 	Adapter 0: AMD Radeon RX 9060 XT
+04:40:20.092: 	  Dedicated VRAM: 17095983104 (15.9 GiB)
+04:40:20.092: 	  Shared VRAM:    16704598016 (15.6 GiB)
+04:40:20.092: 	  PCI ID:         1002:7590
+04:40:20.092: 	  HAGS Status:    Disabled (Default: No, Driver status: Supported)
+04:40:20.092: 	  Driver Version: 32.0.21030.31
+04:40:20.093: 	  output 0:
+04:40:20.093: 	    name=EI322QUR
+04:40:20.093: 	    pos={0, 0}
+04:40:20.093: 	    size={2560, 1440}
+04:40:20.093: 	    attached=true
+04:40:20.093: 	    refresh=144
+04:40:20.093: 	    bits_per_color=8
+04:40:20.093: 	    space=RGB_FULL_G22_NONE_P709
+04:40:20.093: 	    primaries=[r=(0.670898, 0.313477), g=(0.282227, 0.648438), b=(0.153320, 0.060547), wp=(0.310547, 0.322266)]
+04:40:20.093: 	    relative_gamut_area=[709=1.212294, P3=0.893668, 2020=0.641147]
+04:40:20.093: 	    sdr_white_nits=80
+04:40:20.093: 	    nit_range=[min=0.065500, max=417.000000, max_full_frame=391.000000]
+04:40:20.093: 	    dpi=96 (100%)
+04:40:20.093: 	    id=\\?\DISPLAY#ACR072F#7&18551143&0&UID520#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+04:40:20.093: 	    alt_id=\\.\DISPLAY1
+04:40:20.093: Loading up D3D11 on adapter AMD Radeon RX 9060 XT (0)
+04:40:20.145: D3D11 loaded successfully, feature level used: b000
+04:40:20.145: DXGI increase maximum frame latency success
+04:40:20.145: D3D11 GPU priority setup failed (not admin?)
+04:40:20.220: ---------------------------------
+04:40:20.220: video settings reset:
+04:40:20.220: 	base resolution:   2560x1440
+04:40:20.220: 	output resolution: 2560x1440
+04:40:20.220: 	downscale filter:  Bicubic
+04:40:20.220: 	fps:               60/1
+04:40:20.220: 	format:            NV12
+04:40:20.220: 	YUV mode:          Rec. 709/Partial
+04:40:20.220: NV12 texture support enabled
+04:40:20.220: P010 texture support not available
+04:40:20.221: Audio monitoring device:
+04:40:20.221: 	name: Default
+04:40:20.221: 	id: default
+04:40:20.233: ---------------------------------
+04:40:20.244: No AJA devices found, skipping loading AJA UI plugin
+04:40:20.244: Failed to initialize module 'aja-output-ui.dll'
+04:40:20.253: No AJA devices found, skipping loading AJA plugin
+04:40:20.253: Failed to initialize module 'aja.dll'
+04:40:20.253: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+04:40:20.259: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+04:40:20.263: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+04:40:20.269: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+04:40:20.277: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+04:40:20.277: Failed to initialize module 'decklink.dll'
+04:40:20.303: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+04:40:20.303: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+04:40:20.303: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+04:40:20.319: [NVIDIA Audio Effects:] NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+04:40:20.319: Failed to get NVVideoEffects.dll version info size
+04:40:20.320: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+04:40:20.353: [obs-browser]: Version 2.26.3
+04:40:20.353: [obs-browser]: CEF Version 127.0.6533.120 (runtime), 127.145.7+g2b7d20b+chromium-127.0.6533.120 (compiled)
+04:40:20.520: LoadLibrary failed for 'nvEncodeAPI64.dll': The specified module could not be found.
+04:40:20.520:  (126)
+04:40:20.520: NVENC not supported
+04:40:20.520: Failed to initialize module 'obs-nvenc.dll'
+04:40:20.623: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.6.3 | RPC Version: 1)
+04:40:20.623: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.8.3 | Qt version (run-time): 6.8.3
+04:40:20.623: [obs-websocket] [obs_module_load] Linked ASIO Version: 103200
+04:40:20.627: [obs-websocket] [obs_module_load] Module loaded.
+04:40:20.651: [vlc-video]: VLC 3.0.21 Vetinari found, VLC video source enabled
+04:40:20.682: ---------------------------------
+04:40:20.682:   Loaded Modules:
+04:40:20.682:     win-wasapi.dll
+04:40:20.682:     win-dshow.dll
+04:40:20.682:     win-capture.dll
+04:40:20.682:     vlc-video.dll
+04:40:20.682:     text-freetype2.dll
+04:40:20.682:     rtmp-services.dll
+04:40:20.682:     obs-x264.dll
+04:40:20.682:     obs-websocket.dll
+04:40:20.682:     obs-webrtc.dll
+04:40:20.682:     obs-vst.dll
+04:40:20.682:     obs-transitions.dll
+04:40:20.682:     obs-text.dll
+04:40:20.682:     obs-qsv11.dll
+04:40:20.682:     obs-outputs.dll
+04:40:20.682:     obs-filters.dll
+04:40:20.682:     obs-ffmpeg.dll
+04:40:20.682:     obs-browser.dll
+04:40:20.682:     nv-filters.dll
+04:40:20.682:     logi_obs_plugin_x64.dll
+04:40:20.682:     image-source.dll
+04:40:20.682:     frontend-tools.dll
+04:40:20.682:     decklink-output-ui.dll
+04:40:20.682:     decklink-captions.dll
+04:40:20.682:     coreaudio-encoder.dll
+04:40:20.682: ---------------------------------
+04:40:20.689: ---------------------------------
+04:40:20.689: Available Encoders:
+04:40:20.689:   Video Encoders:
+04:40:20.689: 	- ffmpeg_svt_av1 (SVT-AV1)
+04:40:20.689: 	- ffmpeg_aom_av1 (AOM AV1)
+04:40:20.689: 	- h264_texture_amf (AMD HW H.264 (AVC))
+04:40:20.689: 	- h265_texture_amf (AMD HW H.265 (HEVC))
+04:40:20.689: 	- av1_texture_amf (AMD HW AV1)
+04:40:20.689: 	- obs_x264 (x264)
+04:40:20.689:   Audio Encoders:
+04:40:20.689: 	- ffmpeg_aac (FFmpeg AAC)
+04:40:20.689: 	- ffmpeg_opus (FFmpeg Opus)
+04:40:20.689: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+04:40:20.689: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+04:40:20.689: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+04:40:20.689: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+04:40:20.689: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+04:40:20.689: ==== Startup complete ===============================================
+04:40:20.741: All scene data cleared
+04:40:20.741: ------------------------------------------------
+04:40:20.744: [win-wasapi: 'Desktop Audio (game sounds)'] update settings:
+04:40:20.744: 	device id: default
+04:40:20.744: 	use device timing: 1
+04:40:20.745: [Loaded global audio device]: 'Desktop Audio (game sounds)'
+04:40:20.745: [win-wasapi: 'Mic/Aux'] update settings:
+04:40:20.745: 	device id: {0.0.1.00000000}.{e1ed2471-328b-4cb4-8d47-679d934c1862}
+04:40:20.745: 	use device timing: 0
+04:40:20.745: [Loaded global audio device]: 'Mic/Aux'
+04:40:20.746: [duplicator-monitor-capture: 'display'] update settings:
+04:40:20.746: 	display: EI322QUR (2560x1440)
+04:40:20.746: 	cursor: true
+04:40:20.746: 	method: DXGI
+04:40:20.746: 	id: \\?\DISPLAY#ACR072F#7&18551143&0&UID520#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+04:40:20.746: 	alt_id: \\.\DISPLAY1
+04:40:20.746: 	setting_id: \\?\DISPLAY#ACR072F#7&18551143&0&UID520#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+04:40:20.746: 	force SDR: false
+04:40:20.746: [win-wasapi: 'non game sounds'] update settings:
+04:40:20.746: 	device id: {0.0.0.00000000}.{68178def-dc89-47aa-b8dd-072c5f1d9e11}
+04:40:20.746: 	use device timing: 1
+04:40:20.747: Switched to scene 'replay buffer'
+04:40:20.747: ------------------------------------------------
+04:40:20.747: Loaded scenes:
+04:40:20.747: - scene 'replay buffer':
+04:40:20.747:     - source: 'non game sounds' (wasapi_output_capture)
+04:40:20.747:     - source: 'display' (monitor_capture)
+04:40:20.747: ------------------------------------------------
+04:40:20.763: Device for 'Audio Output Capture' source is also used for audio monitoring:
+04:40:20.763: Deduplication logic is being applied to all monitored sources.
+04:40:20.763: 
+04:40:20.766: WASAPI: Device 'Microphone (Blue Snowball )' [48000 Hz] initialized (source: Mic/Aux)
+04:40:20.784: WASAPI: Device 'Voicemeeter AUX Input (VB-Audio Voicemeeter VAIO)' [48000 Hz] initialized (source: non game sounds)
+04:40:20.784: WASAPI: Device 'Voicemeeter Input (VB-Audio Voicemeeter VAIO)' [48000 Hz] initialized (source: Desktop Audio (game sounds))
+04:40:20.805: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+04:40:20.805: 
+04:40:21.664: [texture-amf-h264: 'simple_video_recording'] Original base default settings were used according to resolution and framerate.
+04:40:21.668: [texture-amf-h264: 'simple_video_recording'] settings:
+04:40:21.668: 	rate_control: CQP
+04:40:21.668: 	bitrate:      2500
+04:40:21.668: 	cqp:          23
+04:40:21.668: 	keyint:       250
+04:40:21.668: 	preset:       quality
+04:40:21.668: 	profile:      high
+04:40:21.668: 	level:        5.1
+04:40:21.668: 	b-frames:     0
+04:40:21.668: 	width:        2560
+04:40:21.668: 	height:       1440
+04:40:21.668: 	pre-analysis: false
+04:40:21.668: 	params:       (none)
+04:40:21.672: ---------------------------------
+04:40:21.672: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: stereo, track: 1
+04:40:21.672: 
+04:40:21.672: ---------------------------------
+04:40:21.672: [FFmpeg aac encoder: 'simple_aac_recording1'] bitrate: 192, channels: 2, channel_layout: stereo, track: 2
+04:40:21.672: 
+04:40:21.672: ---------------------------------
+04:40:21.673: [FFmpeg aac encoder: 'simple_aac_recording2'] bitrate: 192, channels: 2, channel_layout: stereo, track: 3
+04:40:21.673: 
+04:40:21.679: ==== Replay Buffer Start ===========================================
+04:40:24.510: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 04-40-24.mkv'
+04:41:14.889: Output 'Replay Buffer': stopping
+04:41:14.890: Output 'Replay Buffer': Total frames output: 3186
+04:41:14.890: Output 'Replay Buffer': Total drawn frames: 3192
+04:41:14.891: ==== Replay Buffer Stop ============================================
+04:41:15.818: [texture-amf-h264: 'simple_video_recording'] Original base default settings were used according to resolution and framerate.
+04:41:15.820: [texture-amf-h264: 'simple_video_recording'] settings:
+04:41:15.820: 	rate_control: CQP
+04:41:15.820: 	bitrate:      2500
+04:41:15.820: 	cqp:          23
+04:41:15.820: 	keyint:       250
+04:41:15.820: 	preset:       quality
+04:41:15.820: 	profile:      high
+04:41:15.820: 	level:        5.1
+04:41:15.820: 	b-frames:     0
+04:41:15.820: 	width:        2560
+04:41:15.820: 	height:       1440
+04:41:15.820: 	pre-analysis: false
+04:41:15.820: 	params:       (none)
+04:41:15.822: ---------------------------------
+04:41:15.822: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: stereo, track: 1
+04:41:15.822: 
+04:41:15.823: ---------------------------------
+04:41:15.823: [FFmpeg aac encoder: 'simple_aac_recording1'] bitrate: 192, channels: 2, channel_layout: stereo, track: 2
+04:41:15.823: 
+04:41:15.823: ---------------------------------
+04:41:15.823: [FFmpeg aac encoder: 'simple_aac_recording2'] bitrate: 192, channels: 2, channel_layout: stereo, track: 3
+04:41:15.823: 
+04:41:15.828: ==== Replay Buffer Start ===========================================
+04:41:17.042: Output 'Replay Buffer': stopping
+04:41:17.042: Output 'Replay Buffer': Total frames output: 66
+04:41:17.042: Output 'Replay Buffer': Total drawn frames: 72
+04:41:17.043: ==== Replay Buffer Stop ============================================
+04:41:17.389: [texture-amf-h264: 'simple_video_recording'] Original base default settings were used according to resolution and framerate.
+04:41:17.392: [texture-amf-h264: 'simple_video_recording'] settings:
+04:41:17.392: 	rate_control: CQP
+04:41:17.392: 	bitrate:      2500
+04:41:17.392: 	cqp:          23
+04:41:17.392: 	keyint:       250
+04:41:17.392: 	preset:       quality
+04:41:17.392: 	profile:      high
+04:41:17.392: 	level:        5.1
+04:41:17.392: 	b-frames:     0
+04:41:17.392: 	width:        2560
+04:41:17.392: 	height:       1440
+04:41:17.392: 	pre-analysis: false
+04:41:17.392: 	params:       (none)
+04:41:17.395: ---------------------------------
+04:41:17.395: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: stereo, track: 1
+04:41:17.395: 
+04:41:17.395: ---------------------------------
+04:41:17.395: [FFmpeg aac encoder: 'simple_aac_recording1'] bitrate: 192, channels: 2, channel_layout: stereo, track: 2
+04:41:17.395: 
+04:41:17.395: ---------------------------------
+04:41:17.395: [FFmpeg aac encoder: 'simple_aac_recording2'] bitrate: 192, channels: 2, channel_layout: stereo, track: 3
+04:41:17.395: 
+04:41:17.400: ==== Replay Buffer Start ===========================================
+04:41:25.680: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 04-41-25.mkv'
+04:41:45.241: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 04-41-45.mkv'
+04:45:47.031: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 04-45-46.mkv'
+04:46:30.761: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 04-46-30.mkv'
+04:47:48.511: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 04-47-48.mkv'
+04:48:03.409: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 04-48-03.mkv'
+04:48:04.990: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 04-48-04.mkv'
+04:48:06.324: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 04-48-06.mkv'
+04:48:06.918: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 04-48-06.mkv'
+04:48:07.915: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 04-48-07.mkv'
+04:48:09.009: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 04-48-08.mkv'
+04:48:38.257: Output 'Replay Buffer': stopping
+04:48:38.257: Output 'Replay Buffer': Total frames output: 26442
+04:48:38.257: Output 'Replay Buffer': Total drawn frames: 26451
+04:48:38.258: ==== Replay Buffer Stop ============================================
+04:48:38.837: [texture-amf-h264: 'simple_video_recording'] Original base default settings were used according to resolution and framerate.
+04:48:38.840: [texture-amf-h264: 'simple_video_recording'] settings:
+04:48:38.840: 	rate_control: CQP
+04:48:38.840: 	bitrate:      2500
+04:48:38.840: 	cqp:          23
+04:48:38.840: 	keyint:       250
+04:48:38.840: 	preset:       quality
+04:48:38.840: 	profile:      high
+04:48:38.840: 	level:        5.1
+04:48:38.840: 	b-frames:     0
+04:48:38.840: 	width:        2560
+04:48:38.840: 	height:       1440
+04:48:38.840: 	pre-analysis: false
+04:48:38.840: 	params:       (none)
+04:48:38.843: ---------------------------------
+04:48:38.843: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: stereo, track: 1
+04:48:38.843: 
+04:48:38.843: ---------------------------------
+04:48:38.843: [FFmpeg aac encoder: 'simple_aac_recording1'] bitrate: 192, channels: 2, channel_layout: stereo, track: 2
+04:48:38.843: 
+04:48:38.843: ---------------------------------
+04:48:38.843: [FFmpeg aac encoder: 'simple_aac_recording2'] bitrate: 192, channels: 2, channel_layout: stereo, track: 3
+04:48:38.843: 
+04:48:38.848: ==== Replay Buffer Start ===========================================
+04:48:39.269: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 04-48-39.mkv'
+04:48:43.100: Output 'Replay Buffer': stopping
+04:48:43.100: Output 'Replay Buffer': Total frames output: 247
+04:48:43.100: Output 'Replay Buffer': Total drawn frames: 255
+04:48:43.101: ==== Replay Buffer Stop ============================================
+04:48:43.714: [texture-amf-h264: 'simple_video_recording'] Original base default settings were used according to resolution and framerate.
+04:48:43.718: [texture-amf-h264: 'simple_video_recording'] settings:
+04:48:43.718: 	rate_control: CQP
+04:48:43.718: 	bitrate:      2500
+04:48:43.718: 	cqp:          23
+04:48:43.718: 	keyint:       250
+04:48:43.718: 	preset:       quality
+04:48:43.718: 	profile:      high
+04:48:43.718: 	level:        5.1
+04:48:43.718: 	b-frames:     0
+04:48:43.718: 	width:        2560
+04:48:43.718: 	height:       1440
+04:48:43.718: 	pre-analysis: false
+04:48:43.718: 	params:       (none)
+04:48:43.721: ---------------------------------
+04:48:43.721: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: stereo, track: 1
+04:48:43.721: 
+04:48:43.721: ---------------------------------
+04:48:43.721: [FFmpeg aac encoder: 'simple_aac_recording1'] bitrate: 192, channels: 2, channel_layout: stereo, track: 2
+04:48:43.721: 
+04:48:43.721: ---------------------------------
+04:48:43.721: [FFmpeg aac encoder: 'simple_aac_recording2'] bitrate: 192, channels: 2, channel_layout: stereo, track: 3
+04:48:43.721: 
+04:48:43.726: ==== Replay Buffer Start ===========================================
+04:48:52.045: Output 'Replay Buffer': stopping
+04:48:52.045: Output 'Replay Buffer': Total frames output: 491
+04:48:52.045: Output 'Replay Buffer': Total drawn frames: 500
+04:48:52.046: ==== Replay Buffer Stop ============================================
+04:48:52.778: [texture-amf-h264: 'simple_video_recording'] Original base default settings were used according to resolution and framerate.
+04:48:52.781: [texture-amf-h264: 'simple_video_recording'] settings:
+04:48:52.781: 	rate_control: CQP
+04:48:52.781: 	bitrate:      2500
+04:48:52.781: 	cqp:          23
+04:48:52.781: 	keyint:       250
+04:48:52.781: 	preset:       quality
+04:48:52.781: 	profile:      high
+04:48:52.781: 	level:        5.1
+04:48:52.781: 	b-frames:     0
+04:48:52.781: 	width:        2560
+04:48:52.781: 	height:       1440
+04:48:52.781: 	pre-analysis: false
+04:48:52.781: 	params:       (none)
+04:48:52.784: ---------------------------------
+04:48:52.784: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: stereo, track: 1
+04:48:52.784: 
+04:48:52.784: ---------------------------------
+04:48:52.784: [FFmpeg aac encoder: 'simple_aac_recording1'] bitrate: 192, channels: 2, channel_layout: stereo, track: 2
+04:48:52.784: 
+04:48:52.784: ---------------------------------
+04:48:52.784: [FFmpeg aac encoder: 'simple_aac_recording2'] bitrate: 192, channels: 2, channel_layout: stereo, track: 3
+04:48:52.784: 
+04:48:52.790: ==== Replay Buffer Start ===========================================
+04:48:57.033: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 04-48-56.mkv'
+04:49:32.928: Output 'Replay Buffer': stopping
+04:49:32.928: Output 'Replay Buffer': Total frames output: 2400
+04:49:32.928: Output 'Replay Buffer': Total drawn frames: 2409
+04:49:32.929: ==== Replay Buffer Stop ============================================
+04:49:40.937: [texture-amf-h264: 'simple_video_recording'] Original base default settings were used according to resolution and framerate.
+04:49:40.939: [texture-amf-h264: 'simple_video_recording'] settings:
+04:49:40.939: 	rate_control: CQP
+04:49:40.939: 	bitrate:      2500
+04:49:40.939: 	cqp:          23
+04:49:40.939: 	keyint:       250
+04:49:40.939: 	preset:       quality
+04:49:40.939: 	profile:      high
+04:49:40.939: 	level:        5.1
+04:49:40.939: 	b-frames:     0
+04:49:40.939: 	width:        2560
+04:49:40.939: 	height:       1440
+04:49:40.939: 	pre-analysis: false
+04:49:40.939: 	params:       (none)
+04:49:40.942: ---------------------------------
+04:49:40.943: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: stereo, track: 1
+04:49:40.943: 
+04:49:40.943: ---------------------------------
+04:49:40.943: [FFmpeg aac encoder: 'simple_aac_recording1'] bitrate: 192, channels: 2, channel_layout: stereo, track: 2
+04:49:40.943: 
+04:49:40.943: ---------------------------------
+04:49:40.943: [FFmpeg aac encoder: 'simple_aac_recording2'] bitrate: 192, channels: 2, channel_layout: stereo, track: 3
+04:49:40.943: 
+04:49:40.955: ==== Recording Start ===============================================
+04:49:40.955: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/bruce/Videos/obs replays/2025-10-30 04-49-40.mkv'...
+04:49:42.176: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/bruce/Videos/obs replays/2025-10-30 04-49-40.mkv' stopped
+04:49:42.176: Output 'simple_file_output': stopping
+04:49:42.176: Output 'simple_file_output': Total frames output: 66
+04:49:42.176: Output 'simple_file_output': Total drawn frames: 73
+04:49:42.177: ==== Recording Stop ================================================
+04:49:51.754: [texture-amf-h264: 'simple_video_recording'] Original base default settings were used according to resolution and framerate.
+04:49:51.758: [texture-amf-h264: 'simple_video_recording'] settings:
+04:49:51.758: 	rate_control: CQP
+04:49:51.758: 	bitrate:      2500
+04:49:51.758: 	cqp:          23
+04:49:51.758: 	keyint:       250
+04:49:51.758: 	preset:       quality
+04:49:51.758: 	profile:      high
+04:49:51.758: 	level:        5.1
+04:49:51.758: 	b-frames:     0
+04:49:51.758: 	width:        2560
+04:49:51.758: 	height:       1440
+04:49:51.758: 	pre-analysis: false
+04:49:51.758: 	params:       (none)
+04:49:51.762: ---------------------------------
+04:49:51.762: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: stereo, track: 1
+04:49:51.762: 
+04:49:51.762: ---------------------------------
+04:49:51.762: [FFmpeg aac encoder: 'simple_aac_recording1'] bitrate: 192, channels: 2, channel_layout: stereo, track: 2
+04:49:51.762: 
+04:49:51.762: ---------------------------------
+04:49:51.762: [FFmpeg aac encoder: 'simple_aac_recording2'] bitrate: 192, channels: 2, channel_layout: stereo, track: 3
+04:49:51.762: 
+04:49:51.767: ==== Replay Buffer Start ===========================================
+04:49:52.872: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 04-49-52.mkv'
+04:49:56.509: Output 'Replay Buffer': stopping
+04:49:56.509: Output 'Replay Buffer': Total frames output: 277
+04:49:56.509: Output 'Replay Buffer': Total drawn frames: 284
+04:49:56.510: ==== Replay Buffer Stop ============================================
+05:00:27.919: [texture-amf-h264: 'simple_video_recording'] Original base default settings were used according to resolution and framerate.
+05:00:27.922: [texture-amf-h264: 'simple_video_recording'] settings:
+05:00:27.922: 	rate_control: CQP
+05:00:27.922: 	bitrate:      2500
+05:00:27.922: 	cqp:          23
+05:00:27.922: 	keyint:       250
+05:00:27.922: 	preset:       quality
+05:00:27.922: 	profile:      high
+05:00:27.922: 	level:        5.1
+05:00:27.922: 	b-frames:     0
+05:00:27.922: 	width:        2560
+05:00:27.922: 	height:       1440
+05:00:27.922: 	pre-analysis: false
+05:00:27.922: 	params:       (none)
+05:00:27.924: ---------------------------------
+05:00:27.924: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: stereo, track: 1
+05:00:27.924: 
+05:00:27.925: ---------------------------------
+05:00:27.925: [FFmpeg aac encoder: 'simple_aac_recording1'] bitrate: 192, channels: 2, channel_layout: stereo, track: 2
+05:00:27.925: 
+05:00:27.925: ---------------------------------
+05:00:27.925: [FFmpeg aac encoder: 'simple_aac_recording2'] bitrate: 192, channels: 2, channel_layout: stereo, track: 3
+05:00:27.925: 
+05:00:27.930: ==== Replay Buffer Start ===========================================
+05:00:31.400: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 05-00-31.mkv'
+05:04:01.778: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 05-04-01.mkv'
+05:04:57.885: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 05-04-57.mkv'
+05:37:07.963: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to 'C:/Users/bruce/Videos/obs replays/Replay 2025-10-30 05-37-07.mkv'
+06:25:42.028: Output 'Replay Buffer': stopping
+06:25:42.028: Output 'Replay Buffer': Total frames output: 306836
+06:25:42.028: Output 'Replay Buffer': Total drawn frames: 306798 (306846 attempted)
+06:25:42.028: Output 'Replay Buffer': Number of lagged frames due to rendering lag/stalls: 48 (0.0%)
+06:25:42.029: ==== Replay Buffer Stop ============================================
+06:25:42.050: Video stopped, number of skipped frames due to encoding lag: 48/306845 (0.0%)
+06:26:15.338: ==== Shutting down ==================================================
+06:26:15.347: WASAPI: Device 'Voicemeeter Input (VB-Audio Voicemeeter VAIO)' Terminated
+06:26:15.350: WASAPI: Device 'Microphone (Blue Snowball )' Terminated
+06:26:15.351: WASAPI: Device 'Voicemeeter AUX Input (VB-Audio Voicemeeter VAIO)' Terminated
+06:26:15.365: All scene data cleared
+06:26:15.365: ------------------------------------------------
+06:26:16.052: [obs-websocket] [obs_module_unload] Shutting down...
+06:26:16.053: Tried to call obs_frontend_remove_event_callback with no callbacks!
+06:26:16.053: [obs-websocket] [obs_module_unload] Finished shutting down.
+06:26:16.054: Tried to call obs_frontend_remove_event_callback with no callbacks!
+06:26:16.054: Tried to call obs_frontend_remove_save_callback with no callbacks!
+06:26:16.054: [Scripting] Total detached callbacks: 0
+06:26:16.055: Freeing OBS context data
+06:26:16.055: 	1 output(s) were remaining
+06:26:16.098: == Profiler Results =============================
+06:26:16.098: run_program_init: 1192.71 ms
+06:26:16.098:  ┣OBSApp::AppInit: 33.618 ms
+06:26:16.098:  ┃ ┗OBSApp::InitLocale: 1.474 ms
+06:26:16.098:  ┗OBSApp::OBSInit: 1054.55 ms
+06:26:16.098:    ┣obs_startup: 3.963 ms
+06:26:16.098:    ┗OBSBasic::OBSInit: 799.465 ms
+06:26:16.098:      ┣OBSBasic::InitBasicConfig: 4.943 ms
+06:26:16.098:      ┣OBSBasic::ResetAudio: 0.292 ms
+06:26:16.098:      ┣OBSBasic::ResetVideo: 149.071 ms
+06:26:16.098:      ┃ ┗obs_init_graphics: 147.679 ms
+06:26:16.098:      ┃   ┗shader compilation: 70.383 ms
+06:26:16.098:      ┣OBSBasic::InitOBSCallbacks: 0.007 ms
+06:26:16.098:      ┣OBSBasic::InitHotkeys: 0.028 ms
+06:26:16.098:      ┣obs_load_all_modules2: 448.801 ms
+06:26:16.098:      ┃ ┣obs_init_module(aja-output-ui.dll): 0.178 ms
+06:26:16.098:      ┃ ┣obs_init_module(aja.dll): 0.154 ms
+06:26:16.098:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 1.265 ms
+06:26:16.098:      ┃ ┣obs_init_module(decklink-captions.dll): 0 ms
+06:26:16.098:      ┃ ┣obs_init_module(decklink-output-ui.dll): 0 ms
+06:26:16.098:      ┃ ┣obs_init_module(decklink.dll): 3.278 ms
+06:26:16.098:      ┃ ┣obs_init_module(frontend-tools.dll): 3.497 ms
+06:26:16.098:      ┃ ┣obs_init_module(image-source.dll): 0.015 ms
+06:26:16.098:      ┃ ┣obs_init_module(logi_obs_plugin_x64.dll): 2 ms
+06:26:16.098:      ┃ ┣obs_init_module(nv-filters.dll): 0.75 ms
+06:26:16.098:      ┃ ┣obs_init_module(obs-browser.dll): 0.444 ms
+06:26:16.098:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 135.973 ms
+06:26:16.098:      ┃ ┣obs_init_module(obs-filters.dll): 0.037 ms
+06:26:16.098:      ┃ ┣obs_init_module(obs-nvenc.dll): 0.321 ms
+06:26:16.098:      ┃ ┃ ┗nvenc_check: 0.31 ms
+06:26:16.098:      ┃ ┣obs_init_module(obs-outputs.dll): 0.009 ms
+06:26:16.098:      ┃ ┣obs_init_module(obs-qsv11.dll): 52.767 ms
+06:26:16.098:      ┃ ┣obs_init_module(obs-text.dll): 0.274 ms
+06:26:16.098:      ┃ ┣obs_init_module(obs-transitions.dll): 0.008 ms
+06:26:16.098:      ┃ ┣obs_init_module(obs-vst.dll): 0.004 ms
+06:26:16.098:      ┃ ┣obs_init_module(obs-webrtc.dll): 0.008 ms
+06:26:16.098:      ┃ ┣obs_init_module(obs-websocket.dll): 4.275 ms
+06:26:16.098:      ┃ ┣obs_init_module(obs-x264.dll): 0.001 ms
+06:26:16.098:      ┃ ┣obs_init_module(rtmp-services.dll): 1.238 ms
+06:26:16.098:      ┃ ┣obs_init_module(text-freetype2.dll): 0.119 ms
+06:26:16.098:      ┃ ┣obs_init_module(vlc-video.dll): 1.748 ms
+06:26:16.098:      ┃ ┣obs_init_module(win-capture.dll): 1.648 ms
+06:26:16.098:      ┃ ┣obs_init_module(win-dshow.dll): 6.395 ms
+06:26:16.098:      ┃ ┣obs_init_module(win-wasapi.dll): 7.273 ms
+06:26:16.098:      ┃ ┗reset_win32_symbol_paths: 0.196 ms
+06:26:16.098:      ┣OBSBasic::InitService: 1.146 ms
+06:26:16.098:      ┣OBSBasic::ResetOutputs: 0.486 ms
+06:26:16.098:      ┣OBSBasic::CreateHotkeys: 0.042 ms
+06:26:16.098:      ┣OBSBasic::InitPrimitives: 0.343 ms
+06:26:16.098:      ┗OBSBasic::Load: 58.573 ms
+06:26:16.098: obs_hotkey_thread(25 ms): min=0.006 ms, median=0.017 ms, max=38.48 ms, 99th percentile=0.213 ms, 99.9984% below 25 ms
+06:26:16.098: audio_thread(Audio): min=0.01 ms, median=0.936 ms, max=60.296 ms, 99th percentile=5.107 ms
+06:26:16.099:  ┗receive_audio: min=0.001 ms, median=0.296 ms, max=17.067 ms, 99th percentile=3.49 ms, 2.67542 calls per parent call
+06:26:16.099:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=0.305 ms, 99th percentile=0.003 ms
+06:26:16.099:    ┗do_encode: min=0.004 ms, median=0.293 ms, max=17.065 ms, 99th percentile=3.487 ms
+06:26:16.099:      ┣encode(simple_aac_recording0): min=0.015 ms, median=0.286 ms, max=6.304 ms, 99th percentile=1.405 ms, 0.333333 calls per parent call
+06:26:16.099:      ┣encode(simple_aac_recording1): min=0.004 ms, median=0.256 ms, max=6.093 ms, 99th percentile=2.782 ms, 0.333333 calls per parent call
+06:26:16.099:      ┣encode(simple_aac_recording2): min=0.003 ms, median=0.321 ms, max=7.147 ms, 99th percentile=4.196 ms, 0.333333 calls per parent call
+06:26:16.099:      ┗send_packet: min=0 ms, median=0.002 ms, max=16.763 ms, 99th percentile=0.007 ms
+06:26:16.099: obs_graphics_thread(16.6667 ms): min=0.083 ms, median=0.503 ms, max=73.623 ms, 99th percentile=1.096 ms, 99.9756% below 16.667 ms
+06:26:16.099:  ┣tick_sources: min=0.001 ms, median=0.212 ms, max=54.523 ms, 99th percentile=0.6 ms
+06:26:16.099:  ┣output_frame: min=0.071 ms, median=0.26 ms, max=69.508 ms, 99th percentile=0.512 ms
+06:26:16.099:  ┃ ┗gs_context(video->graphics): min=0.07 ms, median=0.259 ms, max=69.455 ms, 99th percentile=0.511 ms
+06:26:16.099:  ┃   ┣render_video: min=0.006 ms, median=0.256 ms, max=69.451 ms, 99th percentile=0.504 ms
+06:26:16.099:  ┃   ┃ ┣render_main_texture: min=0.003 ms, median=0.026 ms, max=1.772 ms, 99th percentile=0.064 ms
+06:26:16.099:  ┃   ┃ ┣render_convert_texture: min=0.007 ms, median=0.013 ms, max=6.866 ms, 99th percentile=0.039 ms, 0.891786 calls per parent call
+06:26:16.099:  ┃   ┃ ┗output_gpu_encoders: min=0 ms, median=0.049 ms, max=20.731 ms, 99th percentile=0.121 ms, 0.891786 calls per parent call
+06:26:16.099:  ┃   ┗gs_flush: min=0.001 ms, median=0.003 ms, max=20.113 ms, 99th percentile=0.127 ms
+06:26:16.099:  ┗render_displays: min=0 ms, median=0.051 ms, max=14.591 ms, 99th percentile=0.145 ms
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=0.314 ms, median=0.402 ms, max=3.216 ms, 99th percentile=0.792 ms, 100% below 16.667 ms
+06:26:16.099:  ┣gpu_encode_frame: min=0.306 ms, median=0.39 ms, max=3.21 ms, 99th percentile=0.771 ms
+06:26:16.099:  ┗send_packet: min=0.001 ms, median=0.004 ms, max=0.167 ms, 99th percentile=0.05 ms
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=0.317 ms, median=0.425 ms, max=3.559 ms, 99th percentile=3.559 ms, 100% below 16.667 ms
+06:26:16.099:  ┣gpu_encode_frame: min=0.309 ms, median=0.412 ms, max=3.53 ms, 99th percentile=3.53 ms
+06:26:16.099:  ┗send_packet: min=0.001 ms, median=0.004 ms, max=0.075 ms, 99th percentile=0.075 ms
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=0.241 ms, median=0.394 ms, max=6.361 ms, 99th percentile=0.725 ms, 100% below 16.667 ms
+06:26:16.099:  ┣gpu_encode_frame: min=0.221 ms, median=0.383 ms, max=6.35 ms, 99th percentile=0.702 ms
+06:26:16.099:  ┗send_packet: min=0.001 ms, median=0.004 ms, max=2.88 ms, 99th percentile=0.033 ms
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=0.308 ms, median=0.406 ms, max=3.098 ms, 99th percentile=0.906 ms, 100% below 16.667 ms
+06:26:16.099:  ┣gpu_encode_frame: min=0.299 ms, median=0.396 ms, max=3.092 ms, 99th percentile=0.893 ms
+06:26:16.099:  ┗send_packet: min=0.001 ms, median=0.003 ms, max=0.09 ms, 99th percentile=0.01 ms
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=0.302 ms, median=0.423 ms, max=3.191 ms, 99th percentile=1.032 ms, 100% below 16.667 ms
+06:26:16.099:  ┣gpu_encode_frame: min=0.293 ms, median=0.407 ms, max=3.183 ms, 99th percentile=0.94 ms
+06:26:16.099:  ┗send_packet: min=0.001 ms, median=0.004 ms, max=1.11 ms, 99th percentile=0.094 ms
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=0.276 ms, median=0.419 ms, max=4.801 ms, 99th percentile=0.761 ms, 100% below 16.667 ms
+06:26:16.099:  ┣gpu_encode_frame: min=0.266 ms, median=0.403 ms, max=4.341 ms, 99th percentile=0.736 ms
+06:26:16.099:  ┗send_packet: min=0.001 ms, median=0.004 ms, max=4.339 ms, 99th percentile=0.06 ms
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=0.31 ms, median=0.442 ms, max=3.273 ms, 99th percentile=3.273 ms, 100% below 16.667 ms
+06:26:16.099:  ┣gpu_encode_frame: min=0.29 ms, median=0.419 ms, max=3.267 ms, 99th percentile=3.267 ms
+06:26:16.099:  ┗send_packet: min=0.001 ms, median=0.016 ms, max=0.14 ms, 99th percentile=0.14 ms
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=0.311 ms, median=0.394 ms, max=3.792 ms, 99th percentile=0.937 ms, 100% below 16.667 ms
+06:26:16.099:  ┣gpu_encode_frame: min=0.304 ms, median=0.383 ms, max=3.785 ms, 99th percentile=0.929 ms
+06:26:16.099:  ┗send_packet: min=0.001 ms, median=0.004 ms, max=0.071 ms, 99th percentile=0.026 ms
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=0.173 ms, median=0.405 ms, max=22.802 ms, 99th percentile=0.71 ms, 99.9993% below 16.667 ms
+06:26:16.099:  ┣gpu_encode_frame: min=0.166 ms, median=0.382 ms, max=21.024 ms, 99th percentile=0.663 ms
+06:26:16.099:  ┗send_packet: min=0.001 ms, median=0.008 ms, max=22.491 ms, 99th percentile=0.117 ms
+06:26:16.099: =================================================
+06:26:16.099: == Profiler Time Between Calls ==================
+06:26:16.099: obs_hotkey_thread(25 ms): min=24.171 ms, median=25.306 ms, max=63.536 ms, 68.0962% within ±2% of 25 ms (0.0155843% lower, 31.8883% higher)
+06:26:16.099: obs_graphics_thread(16.6667 ms): min=0.781 ms, median=16.667 ms, max=73.631 ms, 99.6992% within ±2% of 16.667 ms (0.14844% lower, 0.152374% higher)
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=9.524 ms, median=16.664 ms, max=24.355 ms, 96.2069% within ±2% of 16.667 ms (1.81818% lower, 1.97492% higher)
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=16.397 ms, median=16.674 ms, max=16.949 ms, 100% within ±2% of 16.667 ms (0% lower, 0% higher)
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=0.433 ms, median=16.664 ms, max=32.882 ms, 95.3758% within ±2% of 16.667 ms (2.18164% lower, 2.44253% higher)
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=16.183 ms, median=16.668 ms, max=17.131 ms, 97.619% within ±2% of 16.667 ms (0.793651% lower, 1.5873% higher)
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=11.544 ms, median=16.662 ms, max=21.908 ms, 89.5372% within ±2% of 16.667 ms (4.82897% lower, 5.6338% higher)
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=10.724 ms, median=16.663 ms, max=23.099 ms, 95.3034% within ±2% of 16.667 ms (2.1197% lower, 2.57689% higher)
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=16.358 ms, median=16.661 ms, max=17.123 ms, 98.5714% within ±2% of 16.667 ms (0% lower, 1.42857% higher)
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=16.017 ms, median=16.655 ms, max=17.105 ms, 97.8648% within ±2% of 16.667 ms (1.06762% lower, 1.06762% higher)
+06:26:16.099: obs_gpu_encode_thread(16.6667 ms): min=0.186 ms, median=16.665 ms, max=89.515 ms, 94.4813% within ±2% of 16.667 ms (2.69908% lower, 2.81966% higher)
+06:26:16.099: =================================================
+06:26:16.348: Number of memory leaks: 1

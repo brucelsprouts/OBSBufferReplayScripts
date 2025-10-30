@@ -1,0 +1,13 @@
+[
+    {
+        "display_name": "APPLET_OBS_NAME",
+        "enabled": true,
+        "encoders": [],
+        "id": "",
+        "module_name": "logi_obs_plugin_x64",
+        "outputs": [],
+        "services": [],
+        "sources": [],
+        "version": ""
+    }
+]
